@@ -24,7 +24,7 @@ sections:
         new_window: false
         type: action
       - label: Testimonials
-        url: 'https://coastaldraftlines-dd2e1.netlify.app/'
+        url: 'https://coastaldraftlines-dd2e1.netlify.app/#testimonials'
         style: button
         icon_class: ''
         new_window: false
