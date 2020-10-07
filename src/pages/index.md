@@ -63,11 +63,6 @@ sections:
           We are Maine's most reccommended professionals to garuntee quality
           draft lines. If you want taps that pour perfection, Coastal Draft
           Lines are the only choice. 
-      - type: grid_item
-        title: Service title
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - type: section_portfolio
     title: Recent Work
     section_id: latest-projects
