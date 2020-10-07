@@ -9,7 +9,8 @@ sections:
     section_id: hero
     content: >-
       Proudly building & servicing the best craft beverage, coffee, and liquor
-      draft systems in Maine.  Garunteed taste. The way their makers inteded. 
+      draft systems in Maine.  Garunteed  to taste the way craft makers
+      inteded. 
     actions:
       - type: action
         label: Free Quote Today
