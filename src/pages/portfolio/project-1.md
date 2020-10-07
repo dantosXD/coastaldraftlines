@@ -1,6 +1,6 @@
 ---
 title: Designed & Installed a New Draft System
-subtitle: Optional Project Subtitle
+subtitle: At The Newly Renovated Maine Beer Company
 date: '2019-05-10'
 thumb_image: /images/TastingRoomshot.jpeg
 image: images/1.jpg
