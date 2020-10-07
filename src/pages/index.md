@@ -69,7 +69,7 @@ sections:
         title: Emergency Services  & Repairs
         content: >-
           Every second a draft system isn't operating properly your losing out
-          on valuable money, enjoying quality beverages, or both. 
+          on valuable money and drinking lower quality beverages.
 
 
           Get professional servicing or repair garunteed to make the poured
