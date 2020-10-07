@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: section_hero
     title: >-
-      Maine most Recommended commercial and residential Custom Draft Install and
+      Maine most Recommended Commercial and residential Custom Draft Install and
       Servicing
     section_id: hero
     content: >-
