@@ -55,7 +55,7 @@ sections:
 
           Call 207-555-5555 for availability. 
       - type: grid_item
-        title: Draft Line Cleaning &Maintenance
+        title: Draft Line Cleaning & Maintenance
         content: >-
           Craft beverage makers take great pride in their products. We take
           great pride in making sure their products always taste exactly as
