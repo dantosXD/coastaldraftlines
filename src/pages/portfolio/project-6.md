@@ -1,5 +1,5 @@
 ---
-title: Two-tap Residential Install On Lake House
+title: Two-tap Residential Install For Lake House On Sebago Lake
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: /images/homeinstall.jpg
