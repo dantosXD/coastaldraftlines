@@ -42,7 +42,7 @@ sections:
           Dont let your dreams be dreams. Call 207-555-5555 and in 5 minutes
           recieve your free quote today!
       - type: grid_item
-        title: emergencyEmergency Service  &  Repair
+        title: poliEmergency Service  &  Repair
         content: >-
           Every second a draft system isn't operating properly your losing out
           on valuable money, enjoying quality beverages, or both. 
