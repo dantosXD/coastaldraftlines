@@ -44,7 +44,10 @@ sections:
 
           Get professional servicing or repair garunteed to make the poured
           product taste the way the creators intended.  24 hour emergency repair
-          service offered - Call for availability. 
+          service offered.
+
+
+          Call 207-555-5555 for availability. 
       - type: grid_item
         title: Service Title
         content: >-
