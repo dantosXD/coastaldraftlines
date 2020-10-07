@@ -48,19 +48,15 @@ sections:
     grid_items:
       - type: grid_item
         title: Custom Draft Design & Installation
-        content: >-
-          * Our industry leading professionals install draft systems for any
-          beverage, in any structure.  Get taps installed in your new
-          developments, apartments, hotels, offices, businesses, or homes. 
+        content: >2-
+           Our industry leading professionals install draft systems for any beverage, in any structure.  Get taps installed in your new developments, apartments, hotels, offices, businesses, or homes. 
+
+          Get a resturant quality two-tap system installed in your home for less
+          than $999.00.
 
 
-          * Have you ever dreamed of enjoying tap nitro-coffee, seltzer,  or
-          craft beer from the comfort of your own home.  For less than $999.99
-          our gorgeous two-tap system makes that a reality. 
-
-
-          * Dont let your dreams be dreams. Call 207-555-5555 and in 5 minutes
-          recieve your free quote today!
+          We can meet the needs of any commercial project reguarless of size
+          professionally and fast.
       - type: grid_item
         title: Emergency Services  & Repairs
         content: >-
