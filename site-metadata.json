@@ -16,7 +16,7 @@
             },
             {
                 "type": "action",
-                "label": "Past",
+                "label": "Past Work",
                 "url": "/portfolio/",
                 "style": "link"
             },
