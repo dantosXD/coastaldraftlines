@@ -8,8 +8,9 @@ sections:
       Installation and Repair Professionals
     section_id: hero
     content: >-
-      Proudly crafting, installing, and servicing the best draft beverage,
-      coffee, and liquor systems in Maine. 
+      Proudly building, installing, and servicing the best draft craft beer,
+      nitro coffee, and liquor systems in Maine.  Making beverage taste the way
+      their inteded. 
     actions:
       - type: action
         label: Free Quote Today
