@@ -5,7 +5,7 @@ sections:
   - type: section_hero
     title: >-
       Maine's Most Recommended Commercial and Residential Custom Draft
-      Installation and Servicing
+      Installation and Servicing Professionals.
     section_id: hero
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
