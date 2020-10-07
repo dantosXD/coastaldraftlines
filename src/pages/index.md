@@ -8,9 +8,8 @@ sections:
       Installation and Repair Professional
     section_id: hero
     content: >-
-      Proudly building, installing, and servicing the best draft beer, wine,
-      nitro coffee and liquor systems in Maine. 24 hour emergency serciving
-      available. 
+      Proudly crafting, installing, and servicing the best draft beverage,
+      coffee, and liquor systems in Maine. 
     actions:
       - type: action
         label: Free Quote
