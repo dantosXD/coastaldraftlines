@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: Get your tap beverage system installed or serviced today.
+    title: 'Commercial '
     section_id: hero
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
