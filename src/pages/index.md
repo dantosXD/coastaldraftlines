@@ -8,10 +8,8 @@ sections:
       Installation and Servicing Professionals.
     section_id: hero
     content: >-
-      Want a two-line draft system to enjoy cold tasty beverages like nitro
-      coffee, seltzer, or craft beer  in your home for under $1000? Are you a
-      business that wants a draft system that's both  impressively attractive
-      and functional? Get a quote today. 
+      Specializing in Custom Draft Beverage System Design, Maintenance, Repair,
+      and Installation.
     actions:
       - type: action
         label: Free Quote
