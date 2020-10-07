@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: Maine most recommended commercial and residential Custom Beverage
+    title: 'Maine most recommended commercial and residential Custom '
     section_id: hero
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
