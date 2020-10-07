@@ -1,5 +1,5 @@
 ---
-title: Ins
+title: 'Design '
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/TastingRoomshot.jpeg
