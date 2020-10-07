@@ -78,10 +78,9 @@ sections:
 
           We offer 24 hour emergency repair services.
 
-          For emergencies call 207-555-5555 for availability and pricing.
+          For emergencies call 207-555-5555 for availability and pricing. For
+          everything else:
 
-
-          For everything else:
 
           [Get a Free Quote Now
 
