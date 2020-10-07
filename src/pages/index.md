@@ -87,18 +87,19 @@ sections:
           ](https://coastaldraftlines-dd2e1.netlify.app/contact/)
       - type: grid_item
         title: Draft Line Cleaning & Maintenance
-        content: >+
+        content: >-
           Poorly serviced lines cost you money in repairs and lower the quality
-          of the product. 
-
-          Craft beverage makers take great pride in their products. Call us to
-          service your lines to make sure each pour is perfect and tastes
-          exactly the way the makers intended.
+          of the product.  Get professional cleaning garunteed to make the
+          poured product taste exactly as craft makers intended.
 
 
           We are Maine's most reccommended professionals. If you want taps that
-          pour to perfection, Coastal Draft Lines are the only choice. 
+          pour to perfection offer custom service plans to meet the needs of any
+          business or residence. 
 
+
+          Craft beverage makers take great pride in their products we take pride
+          in making sure the poured product is perfect.
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
