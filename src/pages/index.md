@@ -26,7 +26,7 @@ sections:
       - label: lorem-ipsum
         url: lorem-ipsum
         style: button
-        icon_class: lorem-ipsum
+        icon_class: Testimonials
         new_window: false
         type: action
   - type: section_portfolio
