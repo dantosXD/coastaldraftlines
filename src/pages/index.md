@@ -27,7 +27,7 @@ sections:
     is_numbered: true
     grid_items:
       - type: grid_item
-        title: Custom Draft Design & Installation
+        title: "\U0001F37B Custom Draft Design & Installation"
         content: >-
           Our industry leading professionals install draft systems for any
           beverage, in any structure.  Get taps installed in your new
