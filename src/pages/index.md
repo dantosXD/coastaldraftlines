@@ -20,9 +20,7 @@ sections:
   - type: section_grid
     title: ' Commercial or Residential Services'
     section_id: services
-    subtitle: >-
-      Installing or servicing draft lines in new developments, business,
-      resturants, bars or homes. 
+    subtitle: Installing or servicing draft lines anywhere you want to enjoy them.
     col_number: two
     is_numbered: true
     grid_items:
