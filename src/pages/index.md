@@ -106,7 +106,7 @@ sections:
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: We deliver the
     col_number: three
     testimonials:
       - type: testimonial
