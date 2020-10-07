@@ -17,6 +17,12 @@ sections:
         label: Free Quote Today
         url: /contact
         style: button
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - type: section_portfolio
     title: Recent Installs
     section_id: latest-projects
