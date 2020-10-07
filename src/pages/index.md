@@ -57,6 +57,10 @@ sections:
 
           We can meet the needs of any commercial project reguarless of size
           professionally and fast.
+
+
+          [Get a free quote
+          now](https://coastaldraftlines-dd2e1.netlify.app/contact/)
       - type: grid_item
         title: Emergency Services  & Repairs
         content: >-
