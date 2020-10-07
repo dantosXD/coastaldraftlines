@@ -41,7 +41,6 @@ sections:
 
           Dont let your dreams be dreams. Call 207-555-5555 and in 5 minutes
           recieve your free quote today!
-        image: /images/3590694.svg
       - type: grid_item
         title: Emergency Services  & Repairs
         content: >-
