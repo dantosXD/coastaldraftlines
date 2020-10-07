@@ -1,5 +1,5 @@
 ---
-title: 'New Draft Install At The '
+title: 'New Draft Install At The  '
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: /images/Thirsty Pig.jpeg
