@@ -53,7 +53,7 @@ sections:
 
           Call 207-555-5555 for availability. 
       - type: grid_item
-        title: Service Title
+        title: Draft Line Cleaning and Maintenance
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
