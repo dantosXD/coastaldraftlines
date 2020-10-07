@@ -20,7 +20,7 @@ sections:
   - type: section_grid
     title: ' Commercial or Residential Services'
     section_id: services
-    subtitle: 'Installing or service draft lines '
+    subtitle: 'Installing or servicing draft lines '
     col_number: two
     is_numbered: true
     grid_items:
