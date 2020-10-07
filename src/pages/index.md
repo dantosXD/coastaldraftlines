@@ -5,7 +5,7 @@ sections:
   - type: section_hero
     title: >-
       The Most Recommended Comercial and residental custom draft Beverage
-      Installation and Repair ProfessionaC
+      Installation and Repair Professional
     section_id: hero
     content: >-
       Specializing in Custom Draft Beverage System Design, Maintenance, Repair,
