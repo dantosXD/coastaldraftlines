@@ -63,8 +63,7 @@ sections:
           Don't waste another second.
 
 
-          [Get A Free Quote
-          Now](https://coastaldraftlines-dd2e1.netlify.app/contact/)
+          Craft beverage makers take great pride in their products.
       - type: grid_item
         title: Emergency Services  & Repairs
         content: >-
