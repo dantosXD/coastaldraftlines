@@ -20,7 +20,7 @@ sections:
   - type: section_grid
     title: Our  Commercial or Residential Services
     section_id: services
-    subtitle: We
+    subtitle: 'We install and service custom beverage draft lines anywhere they want to '
     col_number: two
     is_numbered: true
     grid_items:
