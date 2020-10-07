@@ -5,7 +5,7 @@ sections:
   - type: section_hero
     title: >-
       The Most Recommended Commercial and Residental Custom Draft Beverage
-      Installation and Repair Professional
+      Installation and Repair Professionals
     section_id: hero
     content: >-
       Proudly crafting, installing, and servicing the best draft beverage,
