@@ -28,10 +28,10 @@ sections:
         title: Custom Draft Design & Installation
         content: >-
           Our industry leading techicians professionally install draft systems
-          for any beverage. 
+          for any beverage in your new developments, businesses, or homes. 
 
 
-          Have you ever wanted to pour and enjoy your own nitro-coffee, seltzer
+          Have you ever wanted to pour and enjoy your own nitro-coffee, seltzer,
           or craft beer at home? Do you want to throw away the office k-cups and
           get a gorgeous, professional, office ready coffee draft system
           installed? Get a free quote today!
