@@ -17,6 +17,14 @@ sections:
         label: Free Quote Today
         url: /contact
         style: button
+  - type: section_portfolio
+    title: Recent Installs
+    section_id: latest-projects
+    subtitle: An optional subtitle of the section
+    layout_style: mosaic
+    projects_number: 6
+    view_all_label: View All
+    view_all_url: portfolio
   - type: section_grid
     title: 'Our  Commercial or Residential Services '
     section_id: services
@@ -65,14 +73,6 @@ sections:
           We are Maine's most reccommended professionals to garuntee quality
           draft lines. If you want taps that pour perfection, Coastal Draft
           Lines are the only choice. 
-  - type: section_portfolio
-    title: Recent Installs
-    section_id: latest-projects
-    subtitle: An optional subtitle of the section
-    layout_style: mosaic
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
