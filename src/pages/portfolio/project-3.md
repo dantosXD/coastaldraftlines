@@ -1,5 +1,5 @@
 ---
-title: New Draft Install At The Thirst Pig Resturant and Bar
+title: New Draft Install At The Thirst Pig Restaurant and Bar
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: /images/Thirsty Pig.jpeg
