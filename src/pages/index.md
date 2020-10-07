@@ -20,7 +20,7 @@ sections:
   - type: section_grid
     title: Commercial or Residential installation
     section_id: services
-    subtitle: An optional subtitle of the section
+    subtitle: 'We '
     col_number: two
     is_numbered: true
     grid_items:
