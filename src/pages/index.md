@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: section_hero
     title: >-
-      The Most Recommended comercial and residental custom draft Beverage
+      The Most Recommended Comercial and residental custom draft Beverage
       Installation and Repair ProfessionaC
     section_id: hero
     content: >-
