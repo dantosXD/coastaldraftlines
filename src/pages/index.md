@@ -72,7 +72,7 @@ sections:
           on valuable money and drinking lower quality beverages.
 
 
-          Get professional servicing or repair garunteed to make the poured
+          Get professional servicing or repairs garunteed to make the poured
           product taste the way the creators intended.  24 hour emergency repair
           service offered.
 
