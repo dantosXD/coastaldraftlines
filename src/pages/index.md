@@ -73,11 +73,12 @@ sections:
 
 
           Get professional servicing or repairs garunteed to make the poured
-          product taste the way the creators intended.  24 hour emergency repair
-          service offered.
+          product taste the way the creators intended.  
 
 
-          For emergencies cal 207-555-5555 for pricing and availability, for
+          We offer 24 hour emergency repair service offered.
+
+          For emergencies call 207-555-5555 for availability and pricing, for
           everyone thing else:
 
 
