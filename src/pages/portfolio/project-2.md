@@ -1,5 +1,5 @@
 ---
-title: 'Custom Design & Installation '
+title: Custom Design & Installat
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/VV.jpg
