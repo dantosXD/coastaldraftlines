@@ -38,9 +38,13 @@ sections:
       - type: grid_item
         title: Emergency Service  &  Repair
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+          Every second a draft system isn't operating properly your losing out
+          on valuable money, enjoying quality beverages, or both. 
+
+
+          Get professional servicing or repair garunteed to make the poured
+          product taste the way the creators intended.  24 hour emergency repair
+          service offered - Call for availability. 
       - type: grid_item
         title: Service Title
         content: >-
