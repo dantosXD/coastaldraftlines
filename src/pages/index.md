@@ -36,7 +36,7 @@ sections:
           get a gorgeous, professional, office ready coffee draft system
           installed? Get a free quote today!
       - type: grid_item
-        title: Emergency Servicing  Repair
+        title: Emergency Servicing  & Repair
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
