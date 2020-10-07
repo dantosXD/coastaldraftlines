@@ -51,8 +51,9 @@ sections:
         content: >2-
            Our industry leading professionals install draft systems for any beverage, in any structure.  Get taps installed in your new developments, apartments, hotels, offices, businesses, or homes. 
 
-          We install resturant quality two-tap home systems for under $999.00
-          for any residence.
+          We install resturant quality two-tap residential systems for under
+          $999.00.  Drink in your home office, summer lake house, cabin or
+          poolside bar. 
 
 
           We meet the needs of any commercial project reguarless of size
