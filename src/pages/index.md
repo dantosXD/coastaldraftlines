@@ -8,8 +8,9 @@ sections:
       Installation and Repair Professional
     section_id: hero
     content: >-
-      Specializing in Custom Draft Beverage System Design, Maintenance, Repair,
-      and Installation.
+      Proudly building, installing, and servicing the best draft beer, wine,
+      nitro coffee and liquor systems in Maine. 24 hour emergency serciving
+      available. 
     actions:
       - type: action
         label: Free Quote
