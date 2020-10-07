@@ -76,7 +76,7 @@ sections:
           highest quality final product.  
 
 
-          We offer 24 hour emergency repair service offered.
+          We offer 24 hour emergency repair services.
 
           For emergencies call 207-555-5555 for availability and pricing, for
           everyone thing else:
