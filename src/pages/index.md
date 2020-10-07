@@ -8,9 +8,10 @@ sections:
       Professionals
     section_id: hero
     content: >-
-      Proudly building & servicing the best craft beverage, coffee, and liquor
-      draft systems in Maine.  Garunteed  to taste the way craft makers
-      inteded. 
+      Proudly installing & servicing the best craft draft line systems in
+      Maine.  
+
+      Garunteed to taste the way craft makers inteded. 
     actions:
       - type: action
         label: Free Quote Today
