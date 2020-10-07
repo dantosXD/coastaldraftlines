@@ -4,8 +4,8 @@ hide_title: true
 sections:
   - type: section_hero
     title: >-
-      Maine's Most Recommended Commercial and Residental Custom Draft Beverage
-      Installation and Repair Professionals
+      Maine's Most Recommended Custom Draft Beverage Installation and Repair
+      Professionals
     section_id: hero
     content: >-
       Proudly building & servicing the best craft beverage, coffee, and liquor
