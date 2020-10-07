@@ -66,7 +66,7 @@ sections:
           draft lines. If you want taps that pour perfection, Coastal Draft
           Lines are the only choice. 
   - type: section_portfolio
-    title: Recent work
+    title: Recent Work
     section_id: latest-projects
     subtitle: An optional subtitle of the section
     layout_style: mosaic
