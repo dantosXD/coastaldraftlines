@@ -55,9 +55,14 @@ sections:
       - type: grid_item
         title: Draft Line Cleaning and Maintenance
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          Craft beverage makers take great pride in their products. We take
+          great pride in making sure their products always taste exactly as
+          intended. 
+
+
+          We are Maine's most reccommended professionals to garuntee quality
+          draft lines. If you want taps that pour perfection, Coastal Draft
+          Lines are the only choice. 
       - type: grid_item
         title: Service title
         content: >-
