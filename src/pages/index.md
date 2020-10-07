@@ -27,7 +27,7 @@ sections:
     is_numbered: true
     grid_items:
       - type: grid_item
-        title: 'Custom Design '
+        title: Custom Draft Design
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
