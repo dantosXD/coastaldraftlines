@@ -20,7 +20,7 @@ sections:
   - type: section_grid
     title: Our  Commercial or Residential Services
     section_id: services
-    subtitle: Installing or servicing draft lines anywhere you want to enjoy them.
+    subtitle: We
     col_number: two
     is_numbered: true
     grid_items:
