@@ -18,7 +18,7 @@ sections:
         url: /contact
         style: button
       - label: Our Services
-        url: lorem-ipsum
+        url: '#'
         style: button
         icon_class: lorem-ipsum
         new_window: false
