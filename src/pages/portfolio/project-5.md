@@ -1,5 +1,5 @@
 ---
-title: Project Title 5
+title: Draft System Install At Battery Steele
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: /images/battery.jpg
