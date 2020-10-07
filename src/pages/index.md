@@ -69,11 +69,11 @@ sections:
         title: Emergency Services  & Repairs
         content: >-
           Every second a draft system isn't operating properly your losing out
-          on valuable money and drinking lower quality beverages.
+          on valuable money.
 
 
-          Get professional servicing or repairs garunteed to make the poured
-          product taste the way the creators intended.  
+          Get professional services and repairs garunteed to last and ensure the
+          highest quality final product.  
 
 
           We offer 24 hour emergency repair service offered.
