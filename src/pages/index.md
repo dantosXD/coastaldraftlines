@@ -106,7 +106,7 @@ sections:
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
-    subtitle: Hear what our customers say
+    subtitle: Hear what our extremly satisfied customers say
     col_number: three
     testimonials:
       - type: testimonial
