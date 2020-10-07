@@ -1,5 +1,7 @@
 ---
-title: Designed & Installed a New Draft System
+title: >-
+  Designed & Installed a New Draft System At The Newly Renovated Maine Beer
+  Company
 subtitle: At The Newly Renovated Maine Beer Company
 date: '2019-05-10'
 thumb_image: /images/TastingRoomshot.jpeg
