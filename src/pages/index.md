@@ -7,8 +7,10 @@ sections:
       Maine's Most Recommended Custom Draft System Installation & Repair
       Professionals
     section_id: hero
-    content: |-
-      Proudly installing & servicing the best draft lines in Maine.  
+    content: >-
+      Proudly installing & servicing the best commercial or residential draft
+      lines in Maine.  
+
       Garunteed taste the way craft makers inteded. 
     actions:
       - type: action
