@@ -74,7 +74,7 @@ sections:
 
 
           For emergencies cal 207-555-5555 for pricing and availability, for
-          everyone thing else
+          everyone thing else:
 
 
           [Get a Free Quote Now
