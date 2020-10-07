@@ -22,7 +22,7 @@ sections:
     section_id: services
     subtitle: >-
       Installing or servicing draft lines for new developments, business,
-      resturants, bars or homes
+      resturants, bars or homes. 
     col_number: two
     is_numbered: true
     grid_items:
