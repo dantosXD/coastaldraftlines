@@ -25,7 +25,7 @@ sections:
     is_numbered: true
     grid_items:
       - type: grid_item
-        title: Custom Draft Design & Installation
+        title: Industry Leading Custom Draft Design & Installation
         content: >-
           Our industry leading techicians professionally install draft systems
           for any beverage in your new developments, businesses, or homes. 
