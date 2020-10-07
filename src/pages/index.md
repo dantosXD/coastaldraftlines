@@ -12,7 +12,7 @@ sections:
       coffee, and liquor systems in Maine. 
     actions:
       - type: action
-        label: Free Quote
+        label: Free Quote Today
         url: /contact
         style: button
   - type: section_portfolio
