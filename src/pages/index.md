@@ -106,9 +106,7 @@ sections:
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
-    subtitle: >-
-      We deliver the best products and services, but don't take our word for it.
-      Here is what our customers say
+    subtitle: Hear what our customers say
     col_number: three
     testimonials:
       - type: testimonial
