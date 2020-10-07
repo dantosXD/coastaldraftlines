@@ -21,7 +21,7 @@ sections:
     title: Commercial or Residential installation
     section_id: services
     subtitle: >-
-      We install best draft systems in your development, business, office, or
+      We install best draft systems for your development, business, office, or
       home
     col_number: two
     is_numbered: true
