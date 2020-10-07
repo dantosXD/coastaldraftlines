@@ -8,8 +8,10 @@ sections:
       Installation and Servicing Professionals.
     section_id: hero
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Want a two-line draft system to enjoy cold tasty beverages like nitro
+      coffee, seltzer, or craft beer  in your home for under $1000? Are you a
+      business that wants a draft system that's both  impressively attractive
+      and functional? Get a quote today. 
     actions:
       - type: action
         label: Free Quote
