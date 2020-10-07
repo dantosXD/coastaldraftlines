@@ -18,7 +18,7 @@ sections:
         url: /contact
         style: button
       - label: Our Services
-        url: '#'
+        url: 'https://coastaldraftlines-dd2e1.netlify.app/#services'
         style: button
         icon_class: lorem-ipsum
         new_window: false
