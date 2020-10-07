@@ -17,7 +17,7 @@ sections:
         label: Free Quote Today
         url: /contact
         style: button
-      - label: lorem-ipsum
+      - label: Our Services
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
