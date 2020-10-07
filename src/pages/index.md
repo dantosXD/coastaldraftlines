@@ -18,7 +18,7 @@ sections:
         url: /contact
         style: button
   - type: section_grid
-    title: Commercial or Residential Installation & Repair
+    title: Our industry leading commercial or residential services
     section_id: services
     subtitle: >-
       We install best draft systems for your development, business, office, or
