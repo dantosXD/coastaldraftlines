@@ -20,9 +20,7 @@ sections:
   - type: section_grid
     title: ' Commercial or Residential Services'
     section_id: services
-    subtitle: >-
-      We install best draft systems for your development, business, office, or
-      home
+    subtitle: 'We will install '
     col_number: two
     is_numbered: true
     grid_items:
