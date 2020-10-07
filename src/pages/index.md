@@ -18,7 +18,7 @@ sections:
         url: /contact
         style: button
   - type: section_grid
-    title: Commercial and Residential
+    title: Commercial and Residential Service
     section_id: services
     subtitle: An optional subtitle of the section
     col_number: two
