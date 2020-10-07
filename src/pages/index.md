@@ -33,8 +33,8 @@ sections:
 
 
           Have you ever dreamed of enjoying tap nitro-coffee, seltzer,  or craft
-          beer from the comfort of your own home.  For under $999.99 our
-          gorgeous two-tap system can make that a reality. 
+          beer from the comfort of your own home.  For less than $999.99 our
+          gorgeous two-tap system makes that a reality. 
 
 
           Dont let your dreams be dreams. Call 207-555-5555 and in 5 minutes
