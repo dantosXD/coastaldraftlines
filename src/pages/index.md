@@ -31,10 +31,10 @@ sections:
           for any beverage. 
 
 
-          Do you want to pour and enjoy your own nitro-coffee or seltzer at
-          home? Does your office need a craft beer draft system? We can do it
-          all beer, wine, coffee, seltzer, liquor, basically any liquid you can
-          dream of. 
+          Have you ever wanted to pour and enjoy your own nitro-coffee, seltzer
+          or craft beer at home? Do you want to throw away the office k-cups and
+          get a gorgeous, professional, office ready coffee draft system
+          installed? Get a free quote today!
       - type: grid_item
         title: Service Title
         content: >-
