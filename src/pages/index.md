@@ -10,7 +10,7 @@ sections:
     content: >-
       Proudly building, installing, and servicing the best draft craft beer,
       nitro coffee, and liquor systems in Maine.  Making beverage taste the way
-      their inteded. 
+      their makers inteded. 
     actions:
       - type: action
         label: Free Quote Today
