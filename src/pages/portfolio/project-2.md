@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Custom Design '
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/VV.jpg
