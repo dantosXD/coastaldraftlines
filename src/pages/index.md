@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: section_hero
     title: >-
-      Maine's Most Recommended Custom Draft Beverage Installation & Repair
+      Maine's Most Recommended Custom Draft System Installation & Repair
       Professionals
     section_id: hero
     content: >-
