@@ -131,7 +131,7 @@ sections:
   - type: section_posts
     title: Latest from the Blog
     section_id: latest-posts
-    subtitle: An optional subtitle of the section
+    subtitle: 'Learn more about our projects, get tips'
     posts_number: 3
     col_number: three
     actions:
