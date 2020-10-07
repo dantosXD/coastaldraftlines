@@ -1,5 +1,5 @@
 ---
-title: 'Design & Install '
+title: Design & Install New
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/TastingRoomshot.jpeg
