@@ -11,7 +11,8 @@ sections:
       Proudly installing & servicing the best commercial or residential draft
       lines in Maine.  
 
-      Garunteed taste the way craft makers inteded. 
+      Garunteed taste the way craft makers inteded.  Click here for a list of
+      our services
     actions:
       - type: action
         label: Free Quote Today
