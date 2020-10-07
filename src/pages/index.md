@@ -8,8 +8,8 @@ sections:
       Professionals
     section_id: hero
     content: >-
-      Proudly installing & servicing the best commercial/residential draft lines
-      in Maine.  
+      Proudly installing & servicing the best commercial or residential draft
+      lines in Maine.  
 
       Garunteed taste the way craft makers inteded. 
     actions:
