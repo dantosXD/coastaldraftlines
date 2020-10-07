@@ -1,5 +1,5 @@
 ---
-title: Maine Beer Compan
+title: Maine Beer Company
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/TastingRoomshot.jpeg
