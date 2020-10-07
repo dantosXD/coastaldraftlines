@@ -1,5 +1,5 @@
 ---
-title: 'Design & Install '
+title: Design & Install Draft System At The Newly Renovated Maine Beer Company
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/TastingRoomshot.jpeg
