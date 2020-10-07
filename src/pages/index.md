@@ -4,8 +4,8 @@ hide_title: true
 sections:
   - type: section_hero
     title: >-
-      Maine's Most Recommended Commercial and Residential Custom Draft
-      Installation and Servicing Professionals.
+      Brewers choice Custom Draft Beverage System Design, Maintenance, Repair,
+      and Installation.
     section_id: hero
     content: >-
       Specializing in Custom Draft Beverage System Design, Maintenance, Repair,
