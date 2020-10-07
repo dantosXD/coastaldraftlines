@@ -24,7 +24,7 @@ sections:
         new_window: false
         type: action
       - label: Testimonials
-        url: lorem-ipsum
+        url: 'https://coastaldraftlines-dd2e1.netlify.app/'
         style: button
         icon_class: ''
         new_window: false
