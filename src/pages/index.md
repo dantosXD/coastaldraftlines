@@ -99,6 +99,10 @@ sections:
 
           Craft beverage makers take great pride in their products we take pride
           in making sure the poured product is perfect.
+
+
+          [Get a free quote
+          now](https://coastaldraftlines-dd2e1.netlify.app/contact/)
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
