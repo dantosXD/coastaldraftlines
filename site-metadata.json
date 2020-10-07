@@ -34,7 +34,7 @@
             },
             {
                 "type": "action",
-                "label": "Contact",
+                "label": "Free Quote",
                 "url": "/contact/",
                 "style": "link"
             }
