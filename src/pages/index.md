@@ -18,7 +18,7 @@ sections:
         url: /contact
         style: button
   - type: section_grid
-    title: "Our  Commercial or Residential Services beer\U0001F37B"
+    title: "Our  Commercial or Residential Services \U0001F37B"
     section_id: services
     subtitle: >-
       We install and service custom beverage draft lines anywhere they want to
