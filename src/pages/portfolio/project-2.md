@@ -1,5 +1,7 @@
 ---
-title: Custom Design & Installation
+title: >-
+  Custom Design & Installation Of A New Draft System For The New Resturant and
+  Bar Via Vecchia
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/VV.jpg
