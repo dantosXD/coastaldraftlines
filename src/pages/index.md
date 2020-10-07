@@ -29,9 +29,10 @@ sections:
       - type: grid_item
         title: Custom Draft Design & Installation
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Our highlighly skilled techicians and professionals will quickly
+          install draft systems for any beverage. Do you want nitro coffee at
+          home? Does your office want a craft beer draft system? We can do it
+          all beer, wine, coffee, seltzer, liquor, and liquid you can think of. 
       - type: grid_item
         title: Service Title
         content: >-
