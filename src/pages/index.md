@@ -73,7 +73,7 @@ sections:
           service offered.
 
 
-          Call 207-555-5555 for availability. 
+          Call 207-555-5555 for pricing and availability. 
       - type: grid_item
         title: Draft Line Cleaning & Maintenance
         content: >-
