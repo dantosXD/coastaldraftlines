@@ -2,7 +2,7 @@
 title: >-
   Designed & Installed a New Draft System At The Newly Renovated Maine Beer
   Company
-subtitle: At The Newly Renovated Maine Beer Company
+subtitle: ''
 date: '2019-05-10'
 thumb_image: /images/TastingRoomshot.jpeg
 image: images/1.jpg
